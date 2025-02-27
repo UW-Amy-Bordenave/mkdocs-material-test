@@ -1,0 +1,4 @@
+site_name: mkdocs-material-test
+site_url: https://uw-amy-bordenave.github.io/mkdocs-material-test/
+theme:
+  name: material
